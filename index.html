@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="NichePulse — a zero-verification, crypto-friendly job board with instant publishing.">
+  <meta name="theme-color" content="#0a0e17">
+  <title>NichePulse — Zero-Verification Job Board</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <header class="topbar">
+    <div class="container nav-wrap">
+      <a class="brand" href="#jobs" aria-label="NichePulse home">
+        <span class="brand-mark">NP</span>
+        <span class="brand-copy"><strong>NichePulse</strong><small>OPEN WORK • ZERO VERIFICATION</small></span>
+      </a>
+      <nav class="desktop-nav" aria-label="Primary navigation">
+        <a href="#jobs" data-nav="jobs">Find jobs</a>
+        <a href="#companies" data-nav="companies">Companies</a>
+        <a href="#salaries" data-nav="salaries">Salary explorer</a>
+        <a href="#applications" data-nav="applications">My applications</a>
+        <a href="#employer" data-nav="employer" class="nav-cta">Post a job</a>
+      </nav>
+      <button class="icon-btn mobile-menu-btn" data-action="toggle-mobile" aria-label="Open menu">☰</button>
+    </div>
+    <div id="mobile-nav" class="mobile-nav hidden">
+      <a href="#jobs">Find jobs</a><a href="#companies">Companies</a><a href="#salaries">Salary explorer</a><a href="#applications">My applications</a><a href="#employer">Post a job</a>
+    </div>
+  </header>
+
+  <main id="app" class="container main"></main>
+
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div><div class="brand footer-brand"><span class="brand-mark">NP</span><span class="brand-copy"><strong>NichePulse</strong><small>OPEN WORK • ZERO VERIFICATION</small></span></div><p>Jobs published instantly. No ID, age, or payment verification required to publish.</p></div>
+      <div><h4>Job seekers</h4><a href="#jobs">Browse jobs</a><a href="#applications">Applications</a><a href="#profile">Profile</a><a href="#alerts">Job alerts</a></div>
+      <div><h4>Employers</h4><a href="#employer">Post a job</a><a href="#employer-dashboard">Employer dashboard</a><a href="#candidates">Candidate pool</a></div>
+      <div><h4>About</h4><a href="#how-it-works">How it works</a><a href="#faq">FAQ</a><a href="#policy">Zero-verification policy</a></div>
+    </div>
+    <div class="container footer-bottom"><span>© 2026 NichePulse</span><span>No verification by design. Community reporting and abuse controls may still apply.</span></div>
+  </footer>
+
+  <template id="job-card-template"></template>
+  <script src="app.js"></script>
+</body>
+</html>

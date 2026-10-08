@@ -1,0 +1,13 @@
+{
+  "name": "nichepulse-zero-verify-job-board",
+  "version": "2.0.0",
+  "private": true,
+  "description": "A zero-verification crypto-friendly job board with immediate publishing and local-first fallback.",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js && node --check public/app.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "jobs": [
+    {
+      "id": "job-101",
+      "title": "Senior EVM Smart Contract Engineer",
+      "company": "ZeroChain DAO",
+      "companySlug": "zerochain-dao",
+      "location": "Remote / Global",
+      "remote": true,
+      "category": "Web3",
+      "type": "Full-time",
+      "experience": "Senior",
+      "salaryMin": 150000,
+      "salaryMax": 210000,
+      "currency": "USD",
+      "salaryText": "$150,000 - $210,000 USD",
+      "postedAt": "2026-10-07T23:52:50.493Z",
+      "featured": true,
+      "easyApply": true,
+      "applicants": 8,
+      "tags": [
+        "Solidity",
+        "Hardhat",
+        "DeFi",
+        "EVM"
+      ],
+      "applyMode": "internal",
+      "applyUrl": "#apply/job-101",
+      "description": "Design non-custodial liquidity vaults with strong gas optimization, Yul/Assembly, and automated fuzzing expertise.",
+      "requirements": [
+        "5+ years smart-contract engineering",
+        "Solidity and EVM depth",
+        "Security-first development mindset"
+      ],
+      "benefits": [
+        "Remote-first",
+        "Flexible hours",
+        "Token + cash compensation"
+      ],
+      "status": "Active",
+      "views": 1248,
+      "companyRating": 4.6,
+      "equity": "0.10% - 0.30%",
+      "verified": false,
+      "createdBy": "demo"
+    },
+    {
+      "id": "job-102",
+      "title": "AI Inference & CUDA Optimization Engineer",
+      "company": "TensorPulse Labs",
+      "companySlug": "tensorpulse-labs",
+      "location": "Remote / San Francisco",
+      "remote": true,
+      "category": "AI / Data",
+      "type": "Full-time",
+      "experience": "Senior",
+      "salaryMin": 180000,
+      "salaryMax": 240000,
+      "currency": "USD",
+      "salaryText": "$180,000 - $240,000 USD",
+      "postedAt": "2026-10-07T21:52:50.493Z",
+      "featured": true,
+      "easyApply": true,
+      "applicants": 14,
+      "tags": [
+        "Python",
+        "CUDA",
+        "PyTorch",
+        "LLM"
+      ],
+      "applyMode": "internal",
+      "applyUrl": "#apply/job-102",
+      "description": "Optimize high-throughput open-weight transformer serving infrastructure, cluster orchestration, and quantization.",
+      "requirements": [
+        "Production CUDA experience",
+        "Strong Python/C++ skills",
+        "Distributed inference experience"
+      ],
+      "benefits": [
+        "Health coverage",
+        "Remote stipend",
+        "Learning budget"
+      ],
+      "status": "Active",
+      "views": 892,
+      "companyRating": 4.3,
+      "equity": null,
+      "verified": false,
+      "createdBy": "demo"
+    },
+    {
+      "id": "job-103",
+      "title": "Rust Core Developer (Solana & Anchor)",
+      "company": "SolX Protocol",
+      "companySlug": "solx-protocol",
+      "location": "Remote",
+      "remote": true,
+      "category": "Web3",
+      "type": "Contract",
+      "experience": "Mid-level",
+      "salaryMin": 100,
+      "salaryMax": 140,
+      "currency": "USD/hr",
+      "salaryText": "$100 - $140 / hr",
+      "postedAt": "2026-10-07T00:52:50.493Z",
+      "featured": false,
+      "easyApply": true,
+      "applicants": 5,
+      "tags": [
+        "Rust",
+        "Solana",
+        "Anchor",
+        "DeFi"
+      ],
+      "applyMode": "external",
+      "applyUrl": "https://example.com/solx/jobs/rust-core",
+      "description": "Build high-speed on-chain orderbook programs on Solana using Rust and Anchor with strong asynchronous systems knowledge.",
+      "requirements": [
+        "3+ years Rust",
+        "Solana program experience",
+        "Async systems knowledge"
+      ],
+      "benefits": [
+        "Flexible contract",
+        "Remote",
+        "Milestone bonuses"
+      ],
+      "status": "Active",
+      "views": 641,
+      "companyRating": 4.1,
+      "equity": null,
+      "verified": false,
+      "createdBy": "demo"
+    },
+    {
+      "id": "job-104",
+      "title": "Product Designer - Developer Tools",
+      "company": "ForgeStack",
+      "companySlug": "forgestack",
+      "location": "New York, NY",
+      "remote": false,
+      "category": "Design & Product",
+      "type": "Full-time",
+      "experience": "Mid-level",
+      "salaryMin": 125000,
+      "salaryMax": 165000,
+      "currency": "USD",
+      "salaryText": "$125,000 - $165,000 USD",
+      "postedAt": "2026-10-06T00:52:50.493Z",
+      "featured": false,
+      "easyApply": false,
+      "applicants": 31,
+      "tags": [
+        "Figma",
+        "Product Design",
+        "B2B",
+        "DevTools"
+      ],
+      "applyMode": "external",
+      "applyUrl": "https://example.com/forgestack/careers",
+      "description": "Own the end-to-end UX for a developer platform used by teams shipping modern applications.",
+      "requirements": [
+        "4+ years product design",
+        "Strong systems thinking",
+        "Portfolio required"
+      ],
+      "benefits": [
+        "Hybrid schedule",
+        "Medical/dental",
+        "401(k)"
+      ],
+      "status": "Active",
+      "views": 534,
+      "companyRating": 4.7,
+      "equity": "0.02% - 0.08%",
+      "verified": false,
+      "createdBy": "demo"
+    },
+    {
+      "id": "job-105",
+      "title": "Growth Marketing Lead",
+      "company": "Orbit Commerce",
+      "companySlug": "orbit-commerce",
+      "location": "Remote / North America",
+      "remote": true,
+      "category": "Marketing",
+      "type": "Part-time",
+      "experience": "Lead",
+      "salaryMin": 65,
+      "salaryMax": 90,
+      "currency": "USD/hr",
+      "salaryText": "$65 - $90 / hr",
+      "postedAt": "2026-10-03T00:52:50.493Z",
+      "featured": false,
+      "easyApply": true,
+      "applicants": 12,
+      "tags": [
+        "Growth",
+        "SEO",
+        "Analytics",
+        "Content"
+      ],
+      "applyMode": "internal",
+      "applyUrl": "#apply/job-105",
+      "description": "Lead growth experiments across acquisition, conversion, SEO, and lifecycle channels for a fast-moving commerce startup.",
+      "requirements": [
+        "4+ years growth experience",
+        "Strong experimentation discipline",
+        "Excellent copy instincts"
+      ],
+      "benefits": [
+        "20 hrs/week",
+        "Remote",
+        "Performance bonus"
+      ],
+      "status": "Active",
+      "views": 388,
+      "companyRating": 4.4,
+      "equity": null,
+      "verified": false,
+      "createdBy": "demo"
+    }
+  ],
+  "companies": {
+    "zerochain-dao": {
+      "name": "ZeroChain DAO",
+      "slug": "zerochain-dao",
+      "tagline": "Building permissionless financial infrastructure.",
+      "size": "11-50",
+      "industry": "Web3",
+      "location": "Remote / Global",
+      "rating": 4.6,
+      "reviews": 18,
+      "openRoles": 4,
+      "about": "Remote-native protocol team focused on smart contracts, liquidity, and developer infrastructure.",
+      "website": "https://example.com/zerochain",
+      "founded": 2022,
+      "hiring": true
+    },
+    "tensorpulse-labs": {
+      "name": "TensorPulse Labs",
+      "slug": "tensorpulse-labs",
+      "tagline": "Fast inference for real-world AI.",
+      "size": "51-200",
+      "industry": "AI",
+      "location": "San Francisco + Remote",
+      "rating": 4.3,
+      "reviews": 27,
+      "openRoles": 6,
+      "about": "Applied AI infrastructure company optimizing model serving, evaluation, and deployment.",
+      "website": "https://example.com/tensorpulse",
+      "founded": 2021,
+      "hiring": true
+    },
+    "solx-protocol": {
+      "name": "SolX Protocol",
+      "slug": "solx-protocol",
+      "tagline": "Trading infrastructure for open networks.",
+      "size": "11-50",
+      "industry": "Web3",
+      "location": "Remote",
+      "rating": 4.1,
+      "reviews": 9,
+      "openRoles": 3,
+      "about": "Protocol team building fast on-chain market infrastructure.",
+      "website": "https://example.com/solx",
+      "founded": 2023,
+      "hiring": true
+    },
+    "forgestack": {
+      "name": "ForgeStack",
+      "slug": "forgestack",
+      "tagline": "Developer tools that reduce time-to-ship.",
+      "size": "51-200",
+      "industry": "Software",
+      "location": "New York, NY",
+      "rating": 4.7,
+      "reviews": 31,
+      "openRoles": 5,
+      "about": "Developer-product company making internal platforms easier to build, operate, and understand.",
+      "website": "https://example.com/forgestack",
+      "founded": 2020,
+      "hiring": true
+    },
+    "orbit-commerce": {
+      "name": "Orbit Commerce",
+      "slug": "orbit-commerce",
+      "tagline": "Commerce growth without the busywork.",
+      "size": "11-50",
+      "industry": "Commerce",
+      "location": "Remote / North America",
+      "rating": 4.4,
+      "reviews": 12,
+      "openRoles": 2,
+      "about": "Commerce team focused on growth, retention, and practical automation.",
+      "website": "https://example.com/orbit",
+      "founded": 2024,
+      "hiring": true
+    }
+  },
+  "reviews": [
+    {
+      "id": "review-1",
+      "companySlug": "zerochain-dao",
+      "rating": 5,
+      "title": "Strong technical team",
+      "body": "High ownership, clear technical goals, and plenty of autonomy.",
+      "createdAt": "2026-09-29T00:52:50.493Z"
+    },
+    {
+      "id": "review-2",
+      "companySlug": "tensorpulse-labs",
+      "rating": 4,
+      "title": "Fast pace, good learning",
+      "body": "Great exposure to production ML systems and strong engineering peers.",
+      "createdAt": "2026-09-24T00:52:50.493Z"
+    }
+  ],
+  "applications": [],
+  "reports": []
+}
